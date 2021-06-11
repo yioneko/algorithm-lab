@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <script type="module" src="./index.ts"></script>
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .charts {
+        width: 50vw;
+      }
+
+      .charts > * {
+        margin-bottom: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="charts">
+      <div><canvas class="chart-all-data" /></div>
+      <div><canvas class="chart-partial-data" /></div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+.board {
+  position: relative;
+}
+
+.tile:not(:first-child) {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 2px solid #4d3434;
+  outline-offset: -5px;
+  left: var(--y);
+  top: var(--x);
+  transition: all var(--interval) linear;
+}
