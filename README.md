@@ -1,1 +1,1 @@
-# alg-lab
+# algorithm-lab
