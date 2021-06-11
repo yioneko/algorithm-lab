@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/algorithm-lab/6/static/css/main.17f06d71.chunk.css",
+    "main.js": "/algorithm-lab/6/static/js/main.257ee112.chunk.js",
+    "main.js.map": "/algorithm-lab/6/static/js/main.257ee112.chunk.js.map",
+    "runtime-main.js": "/algorithm-lab/6/static/js/runtime-main.0ba2e75e.js",
+    "runtime-main.js.map": "/algorithm-lab/6/static/js/runtime-main.0ba2e75e.js.map",
+    "static/js/2.6a5b71c9.chunk.js": "/algorithm-lab/6/static/js/2.6a5b71c9.chunk.js",
+    "static/js/2.6a5b71c9.chunk.js.map": "/algorithm-lab/6/static/js/2.6a5b71c9.chunk.js.map",
+    "index.html": "/algorithm-lab/6/index.html",
+    "static/css/main.17f06d71.chunk.css.map": "/algorithm-lab/6/static/css/main.17f06d71.chunk.css.map",
+    "static/js/2.6a5b71c9.chunk.js.LICENSE.txt": "/algorithm-lab/6/static/js/2.6a5b71c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba2e75e.js",
+    "static/js/2.6a5b71c9.chunk.js",
+    "static/css/main.17f06d71.chunk.css",
+    "static/js/main.257ee112.chunk.js"
+  ]
+}
