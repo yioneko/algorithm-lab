@@ -1,5 +1,9 @@
 {
   "name": "website",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
   "dependencies": {
     "chart.js": "^2.9.4"
   },
